@@ -77,8 +77,13 @@
 
 
 
-        document.getElementById("content").innerText = "Yah! I can write HTML content through JavaScript";
+        // document.getElementById("content").innerText = "Yah! I can write HTML content through JavaScript";
 
 
 
+        var Student1= prompt("please enter Your Name");
+alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
+console.log(typeof Student1);
+console.log("-----------------------------------");
+       
 
