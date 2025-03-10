@@ -81,9 +81,9 @@
 
 
 
-        var Student1= prompt("please enter Your Name");
-alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
-console.log(typeof Student1);
-console.log("-----------------------------------");
+//         var Student1= prompt("please enter Your Name");
+// alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
+// console.log(typeof Student1);
+// console.log("-----------------------------------");
        
 
